@@ -21,7 +21,7 @@
 - **AWS Glue** is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics.
 
 - **AWS Lake Formation** is a service that makes it easy to **set up a secure data lake in days**. A data lake is a centralized, curated, and secured repository that stores all your data, both in its original form and prepared for analysis. A data lake enables you to break down data silos and combine different types of analytics to gain insights and guide better business decisions.
-
+--------------------------
 
 ## APPLICATION INTEGRATION
 
@@ -37,7 +37,7 @@
 
 - **Amazon Simple Queue Service (Amazon SQS)** is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. SQS eliminates the complexity and overhead associated with managing and operating message oriented middleware, and empowers developers to focus on differentiating work.
 Amazon SQS offers two types of message queues. Standard queues offer maximum throughput, best-effort ordering, and at-least-once delivery. Amazon SQS FIFO queues are designed to guarantee that messages are processed exactly once, in the exact order that they are sent.
-
+------------------
 
 ## BUSINESS APPLICATIONS
 
@@ -45,7 +45,7 @@ Amazon SQS offers two types of message queues. Standard queues offer maximum thr
 
 - **Amazon WorkDocs** is a fully managed, secure enterprise storage and sharing service with strong administrative controls and feedback capabilities that improve user productivity.
 Users can comment on files, send them to others for feedback, and upload new versions without having to resort to emailing multiple versions of their files as attachments.
-
+----------------
 
 ## CLOUD FINANCIAL MANAGEMENT
 
@@ -54,7 +54,7 @@ Users can comment on files, send them to others for feedback, and upload new ver
 - **AWS Budgets** gives you the ability to set custom budgets that alert you when your costs or usage exceed (or are forecasted to exceed) your budgeted amount. Budgets can be tracked at the monthly, quarterly, or yearly level, and you can customize the start and end dates.
 
 - **Savings Plans** is a flexible pricing model offering lower prices compared to On-Demand pricing, in exchange for a specific usage commitment (measured in $/hour) **for a one or three-year period**. Compute Savings Plans apply to usage across **Amazon EC2, AWS Lambda, and AWS Fargate**.
-
+----------------
 
 ## COMPUTE
 
@@ -99,7 +99,7 @@ You can simply upload your code, and AWS Elastic Beanstalk automatically handles
 - **AWS Outposts** bring native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility. You can use the same APIs, the same tools, the same hardware, and the same functionality across on-premises and the cloud to deliver a truly consistent hybrid experience. Outposts can be used to support workloads that need to remain on-premises due to low latency or local data processing needs.
 
 - **AWS Wavelength** is an AWS Infrastructure offering optimized for mobile edge computing applications. Wavelength Zones are AWS infrastructure deployments that embed AWS compute and storage services within communications service providers’ (CSP) datacenters at the edge of the 5G network, so application traffic from 5G devices can reach application servers running in Wavelength Zones without leaving the telecommunications network. 
-
+------------------
 
 ## CONTAINERS
 
@@ -108,7 +108,7 @@ You can simply upload your code, and AWS Elastic Beanstalk automatically handles
 - **Amazon Elastic Container Service (Amazon ECS)** is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines (VMs), or schedule containers on those VMs.
 
 - **Amazon Elastic Kubernetes Service (Amazon EKS)** makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS. Amazon EKS runs the Kubernetes management infrastructure for you across multiple AWS Availability Zones to eliminate a single point of failure.
-
+----------------
 
 ## DATABASES
 
@@ -136,7 +136,7 @@ Amazon RDS is available on several database instance types—optimized for memor
 - **Amazon Timestream** is a fast, scalable, fully managed time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day at 1/10th the cost of relational databases.
 
 - **Amazon DocumentDB (with MongoDB compatibility)** is a fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
-
+-----------------
 
 ## DEVELOPER TOOLS
 
@@ -149,14 +149,14 @@ Amazon RDS is available on several database instance types—optimized for memor
 - **Amazon Q Developer** (formerly Amazon CodeWhisperer) assists developers and IT professionals with their tasks—from coding, testing, and upgrading applications, to diagnosing errors, performing security scanning and fixes, and optimizing AWS resources.
 
 - **AWS X-Ray** helps developers analyze and debug distributed applications in production or under development, such as those built using a microservices architecture. X-Ray, you can understand how your application and its underlying services are performing so you can identify and troubleshoot the root cause of performance issues and errors.
-
+--------------
 
 ## FRONTEND WEB AND MOBILE SERVICES
 
 - **AWS Amplify** makes it easy to create, configure, and implement scalable mobile applications powered by AWS. Amplify seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your front-end and back-end allowing you to deliver features faster.
 
 - **AWS AppSync** makes it easy to build data driven mobile and web applications by handling securely all the application data management tasks such as online and offline data access, data synchronization, and data manipulation across multiple data sources. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement.
-
+-----------------
 
 ## ML and AI
 
@@ -183,7 +183,7 @@ Amazon RDS is available on several database instance types—optimized for memor
 - **Amazon Transcribe** is an automatic speech recognition (ASR) service that makes it easy for customers to automatically convert speech to text. The service can transcribe audio files stored in common formats, like WAV and MP3, with time stamps for every word so that you can easily locate the audio in the original source by searching for the text.
 
 - **Amazon Translate** is a neural machine translation service that delivers fast, high-quality, and affordable language translation.
-
+----------------
 
 ## MANAGEMENT AND GOVERNANCE
 
@@ -215,7 +215,7 @@ With AWS Config, you can discover existing and deleted AWS resources, determine 
 - **AWS Trusted Advisor** is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment. Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices.
 
 - The **AWS Well-Architected Tool (AWS WA Tool)** helps you review the state of your workloads and compares them to the latest AWS architectural best practices. A workload is defined as any set of components that deliver business value, which could be an application or website. The tool is based on the AWS Well-Architected Framework, developed to help cloud architects build secure, high-performing, resilient, efficient, and sustainable application infrastructure.
-
+-----------------
 
 ## MIGRATION AND TRANSFER
 
@@ -237,7 +237,7 @@ With AWS Config, you can discover existing and deleted AWS resources, determine 
 
 - **AWS Transfer Family** provides fully managed support for file transfers directly into and out of Amazon S3 or Amazon EFS. With support for Secure File Transfer Protocol (SFTP), File Transfer Protocol over SSL (FTPS), and File Transfer Protocol (FTP), the AWS Transfer Family helps you seamlessly migrate your file transfer workflows to AWS by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 so nothing changes for your customers and partners, or their applications. 
 
-
+------------------
 ## NETWORKING AND CONTENT DELIVERY
 
 - **Amazon API Gateway** is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
@@ -265,7 +265,7 @@ With AWS Config, you can discover existing and deleted AWS resources, determine 
 - **Amazon Virtual Private Cloud (Amazon VPC)** lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.
 
 - **AWS Virtual Private Network (AWS VPN)** solutions establish secure connections between your on-premises networks, remote offices, client devices, and the AWS global network. AWS VPN is comprised of two services: AWS Site-to-Site VPN and AWS Client VPN. 
-
+------------
 
 ## SECURITY, IDENTITY AND COMPLIANCE
 
@@ -302,7 +302,7 @@ With AWS Config, you can discover existing and deleted AWS resources, determine 
 - **AWS IAM Identity Center (SSO)** is a cloud SSO service that makes it easy to centrally manage SSO access to multiple AWS accounts and business applications. With just a few clicks, you can enable a highly available SSO service without the upfront investment and on-going maintenance costs of operating your own SSO infrastructure. 
 
 - **AWS WAF** is a web application ﬁrewall that helps protect your web applications or APIs against common web exploits and bots that may affect availability, compromise security, or consume excessive resources. AWS WAF gives you control over how traffic reaches your applications by enabling you to create security rules that control bot traffic and block common attack patterns, such as SQL injection or cross-site scripting. You can also customize rules that filter out specific traffic patterns.
-
+------------------
 
 ## STORAGE
 

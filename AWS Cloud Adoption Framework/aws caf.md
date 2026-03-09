@@ -19,11 +19,11 @@
 ![alt text](image-1.png)
 
 - **Envision Phase** focuses on demonstrating how the cloud will help accelerate your business outcomes. It does so by identifying and prioritizing transformation opportunities across each of the four transformation domains in line with your strategic business objectives. Associating your transformation initiatives with key stakeholders (senior individuals capable of influencing and driving change) and measurable business outcomes will help you demonstrate value as you progress through your transformation journey.
-
+--------
 - **Align Phase** focuses on identifying capability gaps across the six AWS CAF perspectives, identifying cross-organizational dependencies, and surfacing stakeholder concerns and challenges. Doing so will help you create strategies for improving your cloud readiness, ensure stakeholder alignment, and facilitate relevant organizational change management activities.
-
+----------
 - **Launch Phase** focuses on delivering pilot initiatives in production and on demonstrating incremental business value. Pilots should be highly impactful; if successful they will help influence future direction. Learning from pilots will help you adjust your approach before scaling to full production.
-
+---------
 - **Scale Phase** focuses on expanding production pilots and business value to desired scale and ensuring that the business benefits associated with your cloud investments are realized and sustained.
 
 ----------------------------------------------------------
