@@ -1,3 +1,3 @@
 Additional AWS notes
 
-Only for educational purposes!
+**Only for educational purposes!**
